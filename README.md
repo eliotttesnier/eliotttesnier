@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eliotttesnier
 - 👀 I’m a first year EPITECH student
 - 🌱 I’m currently learning 'C' language
-- ⚡ I know how to program in 'C', 'Python', 'Lua', 'HTML/CSS' and a bit of 'JavaScript'
+- ⚡ I know how to program in 'C', 'Python', 'Lua', 'GDScrpit', 'HTML/CSS' and a bit of 'JavaScript'
 - 📫 How to reach me :
     - mail : eliott.tesnier@epitech.eu
     - phone :  +33629673194
