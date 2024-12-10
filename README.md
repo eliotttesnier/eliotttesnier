@@ -4,7 +4,6 @@
 - ⚡ I know how to program in 'C', 'Python'. I have notions in 'C++', 'C#', 'JavaScript', 'Lua', 'HTMLL/CSS', 'GDScript'
 - 📫 How to reach me :
     - mail : eliott.tesnier@epitech.eu
-    - phone :  +33629673194
 
 <!---
 eliotttesnier/eliotttesnier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
