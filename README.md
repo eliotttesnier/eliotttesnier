@@ -1,11 +1,24 @@
-- 👋 Hi, I’m @eliotttesnier
-- 👀 I’m a second year EPITECH student
-- 🌱 I’m currently learning 'C' language as welle as 'C++'
-- ⚡ I know how to program in 'C', 'Python'. I have notions in 'C++', 'C#', 'JavaScript', 'Lua', 'HTMLL/CSS', 'GDScript'
-- 📫 How to reach me :
-    - mail : eliott.tesnier@epitech.eu
+# 👋 Hi, I'm Eliott Tesnier
 
-<!---
-eliotttesnier/eliotttesnier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 I'm a 3rd-year software engineering student at [EPITECH Nantes](https://www.epitech.eu/), passionate about programming, music, and building clean, meaningful tech projects.
+
+## 👨‍🏫 Academic Involvement
+
+- **Pedagogical Assistant at EPITECH Nantes**  
+  Supporting students during workshops and project follow-ups
+
+## 🛠️ Technical Skills
+
+- **Languages**: C, C++, Python, JavaScript, Haskell, C#, Lua, SQL, GDScript  
+- **Web**: HTML, CSS, Django  
+- **Tools**: Git, GitHub, Docker, GitHub Actions & Projects
+
+## 📫 Contact
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/eliott-tesnier/)  
+- 💻 [GitHub](https://github.com/eliotttesnier)  
+- 📧 eliott.tesnier@epitech.eu
+
+---
+
+> *Curious, invested, and quality-driven — I aim to design software that's clean, useful, and well thought-out.*
