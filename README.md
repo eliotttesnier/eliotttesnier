@@ -14,6 +14,7 @@
 - **Tools**: Git, GitHub, Docker, GitHub Actions & Projects
 
 ### ⚙️ TEK-1
+- 🚀 [Corewar](https://github.com/eliotttesnier/Corewar)
 - 🎮 [myRPG](https://github.com/eliotttesnier/myRPG)
 
 ### ⚙️ TEK-2
