@@ -13,12 +13,15 @@
 - **Web**: HTML, CSS, Django  
 - **Tools**: Git, GitHub, Docker, GitHub Actions & Projects
 
-### 🧱 TEK-1
+### ⚙️ TEK-1
 - 🎮 [myRPG](https://github.com/eliotttesnier/myRPG)
 
 ### ⚙️ TEK-2
 - 🕹️ [Arcade](https://github.com/eliotttesnier/Arcade)  
 - 💻 [Raytracer](https://github.com/eliotttesnier/RayTracer)
+
+### ⚙️ Every Projects
+- ⚙️ [EpitechProjects](https://github.com/eliotttesnier/EpitechProjects)
 
 ## 📫 Contact
 
