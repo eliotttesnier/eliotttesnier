@@ -37,3 +37,4 @@
 ---
 
 > *Curious, invested, and quality-driven — I aim to design software that's clean, useful, and well thought-out.*
+ 
