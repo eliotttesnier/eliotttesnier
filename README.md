@@ -13,17 +13,18 @@
 - **Web**: HTML, CSS, Django  
 - **Tools**: Git, GitHub, Docker, GitHub Actions & Projects
 
-### ⚙️ TEK-1
-- 📝 [42sh](https://github.com/eliotttesnier/42sh)
-- 🚀 [Corewar](https://github.com/eliotttesnier/Corewar)
-- 🎮 [myRPG](https://github.com/eliotttesnier/myRPG)
+### ⚙️ TEK-3
+- 💻 [Survivor](https://github.com/My-Epitech-Organisation/Survivor)
+- 🧩 [AREA](https://github.com/cafe-sur-cour/AREA)
 
 ### ⚙️ TEK-2
 - 🕹️ [Arcade](https://github.com/eliotttesnier/Arcade)  
 - 💻 [Raytracer](https://github.com/eliotttesnier/RayTracer)
 
-### ⚙️ TEK-3
-- 💻 [Survivor](https://github.com/My-Epitech-Organisation/Survivor)
+### ⚙️ TEK-1
+- 📝 [42sh](https://github.com/eliotttesnier/42sh)
+- 🚀 [Corewar](https://github.com/eliotttesnier/Corewar)
+- 🎮 [myRPG](https://github.com/eliotttesnier/myRPG)
 
 ### ⚙️ Every Projects
 - ⚙️ [EpitechProjects](https://github.com/eliotttesnier/EpitechProjects)
