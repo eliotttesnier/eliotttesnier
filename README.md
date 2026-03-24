@@ -16,6 +16,7 @@
 ### ⚙️ TEK-3
 - 💻 [Survivor](https://github.com/My-Epitech-Organisation/Survivor)
 - 🧩 [AREA](https://github.com/cafe-sur-cour/AREA)
+- 🎮 [R-Type](https://github.com/cafe-sur-cour/ryanR-type)
 
 ### ⚙️ TEK-2
 - 🕹️ [Arcade](https://github.com/eliotttesnier/Arcade)  
